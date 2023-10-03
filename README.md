@@ -1,7 +1,7 @@
 # Exercicios-de-Python
 Serie de exercicios de Python desde o mais basico até alguns de complexidade maior.
 
-Tratam-se de 100 exercicios.
+Tratam-se de 100 exercicios:
 1- Printar mensagens.
 2- Leitura e Impressao.
 3- Soma simples de numeros.
